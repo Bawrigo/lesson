@@ -4,7 +4,7 @@ public class DF {
 
 
     public static void main(String[] args) {
-        System.out.print("neshe san kiritesiz:");
+        System.out.print("neshe  kiritesiz:");
         Scanner scanner = new Scanner(System.in);
         int numberOfVariables = (scanner.nextInt());
         DF df = new DF();
